@@ -9,7 +9,9 @@ front end and backend.
 
  Employee [ ID, First Name, Last Name, Employment ID, Start Date, Designation, Department, End
                    date, Status, DOB, Reporting Manager, gender, blood group, address]
+                   
      o Dependants [ First Name, Last Name, Gender, DOB, Relationship]
+     
      o Educational qualification [ Type, Start Date, End Date, Type, Institution, Address, Percentage]
      
  Secure the API’s to respond only when it contains a security header whose value is controlled by
